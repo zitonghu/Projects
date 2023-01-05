@@ -1,8 +1,8 @@
 # zitong-projects
 
 ---
-  title: 'Lender Classification with Logistic Regression'
-author: "Zitong Hu"
+'Lender Classification with Logistic Regression'
+"Zitong Hu"
 output:
   pdf_document:
   toc: yes
