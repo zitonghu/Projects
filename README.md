@@ -1,19 +1,7 @@
-# zitong-projects
+# Lender Classification with Logistic Regression
 
 ---
-'Lender Classification with Logistic Regression'
 "Zitong Hu"
-output:
-  pdf_document:
-  toc: yes
-word_document:
-  toc: yes
-html_document:
-  theme: journal
-highlight: tango
-number_sections: yes
-toc: yes
-toc_float: no
 ---
   
   
