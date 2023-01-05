@@ -1,7 +1,7 @@
 # Lender Classification with Logistic Regression
 
 ---
-"Zitong Hu"
+Zitong Hu
 ---
   
   
